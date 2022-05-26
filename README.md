@@ -20,3 +20,5 @@ Please cite the following paper if you use our work. Thanks!
 J Wu, Y Wang, B Du, Q Wu, Y Zhai, J Shen, L Zhou, C Cai, W Wei,and Q Zhou., "The Bounds of Improvements Toward Real-Time Forecast of Multi-Scenario Train Delays," in IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 3, pp. 2445-2456, March 2022, doi: 10.1109/TITS.2021.3099031.
 
 J Wu, B Du, Z Gong, Q Wu, J Shen, L Zhou,and C Cai., 2022. A GTFS data acquisition and processing framework and its application to train delay prediction. International Journal of Transportation Science and Technology.https://doi.org/10.1016/j.ijtst.2022.01.005
+
+J Wu, B Du, Q Wu, J Shen, L Zhou, C Cai, Y Zhai, W Wei, Q Zhou. A Hybrid LSTM-CPS Approach for Long-Term Prediction of Train Delays in Multivariate Time Series. Future Transportation. 2021; 1(3):765-776. https://doi.org/10.3390/futuretransp1030042
